@@ -15,8 +15,7 @@ An interactive Excel Sales Analytics Dashboard transforming raw commercial data 
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Timelines
-- 
+  
 ## 📸 Dashboard Preview
 
 ### 1. Executive Sales Overview
